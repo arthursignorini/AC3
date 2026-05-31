@@ -1,0 +1,16 @@
+# Binário compilado (não versionar)
+sim/cache_sim
+
+# Waveform gerado (pode ser grande — opcional versionar)
+# sim/cache_sim.vcd
+
+# Log de simulação
+sim/sim_log.txt
+
+# Arquivos temporários de ferramentas EDA
+*.jou
+*.log
+*.pb
+*.str
+work/
+modelsim.ini
