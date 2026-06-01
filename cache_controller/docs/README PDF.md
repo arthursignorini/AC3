@@ -2,7 +2,7 @@
 
 Implementação de um controlador de cache **direct-mapped** com política **write-back** e **write-allocate** em SystemVerilog, conforme especificado no Capítulo 5, Seção 5.12 do livro *Computer Organization and Design: The Hardware/Software Interface — RISC-V Edition* (Patterson & Hennessy).
 
-> Disciplina: Organização e Arquitetura de Computadores
+> Disciplina: Arquitetura de Computadores
 
 ---
 
